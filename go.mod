@@ -1,3 +1,3 @@
-module github.com/oneshot-uno/block
+module github.com/forestnode-io/block
 
 go 1.20
